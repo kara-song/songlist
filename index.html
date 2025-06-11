@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karaoke Song List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Search for your Karaoke Songs here.</h1>
+        <input type="text" id="searchInput" placeholder="Search by Title or Artist... (Japanese characters might be needed)">
+        <p id="songCount">Loading songs...</p>
+        <table id="songTable">
+            <thead>
+                <tr>
+                    <th data-sort="DateString">Date Added</th>
+                    <th data-sort="TitleAndArtist"><b>Title & Artist</b> <i>(double-click to play song)</i></th>
+                    <th data-sort="SongCode">Song Code</th>
+                </tr>
+            </thead>
+            <tbody id="songList">
+                <!-- Song rows will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
