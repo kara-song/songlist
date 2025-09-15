@@ -1,5 +1,2425 @@
 ﻿[
   {
+    "DateString": "250914",
+    "SongCode": "hvStb-wMDOY",
+    "TitleAndArtist": "Karaoke\u266C SHANTI  feat. KAITO - wotaku feat. KAITO \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "hNhQDAmEIHU",
+    "TitleAndArtist": "Kokoro Hiraite \u2013 ZARD (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "r673edJ4aRo",
+    "TitleAndArtist": "Regina Song - Love me again (Karaoke Version)"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "1WFAHz6Bdwo",
+    "TitleAndArtist": "Sing King Soundcheck Ep. 6"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "mbJRD1lrJBk",
+    "TitleAndArtist": "Sufjan Stevens - Mystery of Love (Karaoke Version)"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "j1s2ufgbuf0",
+    "TitleAndArtist": "Susan Sarandon - Touch-A- Touch-A- Touch Me (Karaoke Version)"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "ch_-MDTqhbY",
+    "TitleAndArtist": "Tonight the Heartache\u0027s on Me - The Chicks \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250914",
+    "SongCode": "tyc6dtGs7ZE",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30B9\u30AD\u30B9\u30AD\u7D76\u9802\u75C7 feat. GUMI - koyori(\u96FB\u30DD\u30EBP) \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "O7q98voPDqI",
+    "TitleAndArtist": "Alexandra Burke- Flo Rida - Bad Boys (Karaoke Version)"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "8ZUIsqavwK4",
+    "TitleAndArtist": "I Love You Because - Jim Reeves \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "Viz-EnggYMI",
+    "TitleAndArtist": "Juke Box Hero - Foreigner \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "u59q2CwNWlk",
+    "TitleAndArtist": "Karaoke\u266C Aikotoba - AiNA THE END \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "2LInhBak7Js",
+    "TitleAndArtist": "MIKA - Relax- Take It Easy (Karaoke Version)"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "ZfYNiKEkehY",
+    "TitleAndArtist": "Nothing\u0027s Gonna Change My Love For You -\u00A0 George Benson\u00A0karaoke"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "NpkgKGHp0qo",
+    "TitleAndArtist": "Tengoku (Heaven) \u2013 Mrs. GREEN APPLE (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "mrd_wAhc1TU",
+    "TitleAndArtist": "The Rocky Horror Picture Show - Over at the Frankenstein Place (Karaoke Version)"
+  },
+  {
+    "DateString": "250913",
+    "SongCode": "HbVHS_eJbnE",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u8131\u6CD5\u30ED\u30C3\u30AF feat. \u93E1\u97F3\u30EC\u30F3 - Neru \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "pBPayr_eP8A",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011YouTube\u30C6\u30FC\u30DE\u30BD\u30F3\u30B02\u29F8HIKAKIN \u0026 SEIKIN\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "rH79PvNxBSQ",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3048\u3076\u308A\u3067\u3044\u30DB\u30B9\u30C8\u29F8\u3048\u3076\u30DB\u30B9Players\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "1E44sk564-U",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30AB\u30EA\u30B9\u30DE\u30C3\u30AF\u30B9\u29F8Snow Man\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "13X-T6PAcng",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u306E\u3060\u29F8\u5927\u6F20\u6CE2\u65B0\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "2S4_MXUmDIs",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30CE\u30F3\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u29F8\u5E73\u4E95\u5805\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "o2O-cDcrAi0",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u7A7A\u29F8GENERATIONS from EXILE TRIBE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "9jafSyLhG20",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u8D85\u3048\u308B\u29F8[Alexandros]\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "TVsUXViHZ8o",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011YouTube\u30C6\u30FC\u30DE\u30BD\u30F3\u30B02\u29F8HIKAKIN \u0026 SEIKIN"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "6UjyRHjJNmE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3048\u3076\u308A\u3067\u3044\u30DB\u30B9\u30C8\u29F8\u3048\u3076\u30DB\u30B9Players"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "BeArFJhwLw0",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30AB\u30EA\u30B9\u30DE\u30C3\u30AF\u30B9\u29F8Snow Man"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "D7Y_d2q6SI8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u306E\u3060\u29F8\u5927\u6F20\u6CE2\u65B0"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "uY-Dvv2ahpk",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30CE\u30F3\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u29F8\u5E73\u4E95\u5805"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "46Ap-3gU2XE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u7A7A\u29F8GENERATIONS from EXILE TRIBE"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "MRXZh610cZE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u8D85\u3048\u308B\u29F8[Alexandros]"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "BvXza5FjwJI",
+    "TitleAndArtist": "21 Questions - 50 Cent \u0026 Nate Dogg \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "0i79Eb8FpfA",
+    "TitleAndArtist": "Karaoke\u266C Sukisuki Zecchoushou ft. GUMI - koyori(Denpol P) \u3010No Guide Melody\u3011 Lyric Romanized"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "uBxv6mdFcqw",
+    "TitleAndArtist": "Koikaze \u2013 Ikuta Rira (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "PvKglLkSRyw",
+    "TitleAndArtist": "Meet In The Middle - Diamond Rio \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "HNUVcMPVyos",
+    "TitleAndArtist": "Melanie Martinez - BATTLE OF THE LARYNX (Karaoke Version)"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "nt5B0hYZepY",
+    "TitleAndArtist": "Practice What You Preach - Barry White \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "3snUFerdO_8",
+    "TitleAndArtist": "Queen - Crazy Little Thing Called Love (Karaoke Version)"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "KAIwXpWylrM",
+    "TitleAndArtist": "sombr - 12 to 12 (Karaoke Version)"
+  },
+  {
+    "DateString": "250912",
+    "SongCode": "L7FxsCAhjaw",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C LOVE AFFAIR\uFF5E\u79D8\u5BC6\u306E\u30C7\u30FC\u30C8 - \u30B5\u30B6\u30F3\u30AA\u30FC\u30EB\u30B9\u30BF\u30FC\u30BA  \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "n6x5Xre4Sqc",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011GET MY LOVE!\u29F8MAX\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "jcn5n6Tv_s8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3042\u306A\u305F\u3092\u30FB\u3082\u3063\u3068\u30FB\u77E5\u308A\u305F\u304F\u3066\u29F8\u85AC\u5E2B\u4E38\u3072\u308D\u5B50\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "aRbkDdYnPzc",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30AA\u30EC\u30F3\u30B8\u306E\u96E8\u29F8\u91CE\u53E3\u4E94\u90CE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "ENj44V46ytg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30AB\u30E0\u30FB\u30D5\u30E9\u30FC\u30B8\u30E5\u29F8\u67CF\u539F\u82B3\u6075\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "4gDBtXJKLc0",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3057\u30FB\u306E\u30FB\u3073\u30FB\u611B\u29F8\u67CF\u539F\u82B3\u6075\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "oRtBfsrGWVI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30DC\u30EB\u30C6\u30C3\u30AB\u30FC feat.\u521D\u97F3\u30DF\u30AF\u29F8DECO\uFF0A27\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "rqxV_6fMyuA",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u6700\u611B\u29F8\u67CF\u539F\u82B3\u6075\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "JZm-M80B4sI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u535A\u591A\u307F\u308C\u3093\u29F8\u91CE\u53E3\u4E94\u90CE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "fhQNJy8soV4",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u54C0\u3057\u307F\u306E\u7D42\u308F\u308B\u3068\u304D\u29F8\u91CE\u53E3\u4E94\u90CE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "Vc72xvamq9s",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u590F\u4F11\u307F\u3060\u3051\u306E\u30B5\u30A4\u30C9\u30B7\u30FC\u30C8\u29F8\u6E21\u8FBA\u6E80\u91CC\u5948\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "QWRrmNmPnr8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5B63\u7BC0\u98A8\u29F8\u91CE\u53E3\u4E94\u90CE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "8WmKDxk3UII",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011GET MY LOVE!\u29F8MAX"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "GYomMmCjoV8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3042\u306A\u305F\u3092\u30FB\u3082\u3063\u3068\u30FB\u77E5\u308A\u305F\u304F\u3066\u29F8\u85AC\u5E2B\u4E38\u3072\u308D\u5B50"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "5N8uEBTu2ng",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30AA\u30EC\u30F3\u30B8\u306E\u96E8\u29F8\u91CE\u53E3\u4E94\u90CE"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "uf0yocmoKQc",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30AB\u30E0\u30FB\u30D5\u30E9\u30FC\u30B8\u30E5\u29F8\u67CF\u539F\u82B3\u6075"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "Vh11SCEUiO4",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3057\u30FB\u306E\u30FB\u3073\u30FB\u611B\u29F8\u67CF\u539F\u82B3\u6075"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "L3zDVt6K0xM",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30DC\u30EB\u30C6\u30C3\u30AB\u30FC feat.\u521D\u97F3\u30DF\u30AF\u29F8DECO\uFF0A27"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "iheiaa8WSo0",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u6700\u611B\u29F8\u67CF\u539F\u82B3\u6075"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "Sm8TghwldIE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u535A\u591A\u307F\u308C\u3093\u29F8\u91CE\u53E3\u4E94\u90CE"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "FmZ9ea3XtnI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u54C0\u3057\u307F\u306E\u7D42\u308F\u308B\u3068\u304D\u29F8\u91CE\u53E3\u4E94\u90CE"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "qmbSr2vviTE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u590F\u4F11\u307F\u3060\u3051\u306E\u30B5\u30A4\u30C9\u30B7\u30FC\u30C8\u29F8\u6E21\u8FBA\u6E80\u91CC\u5948"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "wRZD1R3gmkI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5B63\u7BC0\u98A8\u29F8\u91CE\u53E3\u4E94\u90CE"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "2jLx8JPkXa0",
+    "TitleAndArtist": "Karaoke\u266C Law-evading Rock feat. Kagamine Len - Neru \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "GqajG-FAQoM",
+    "TitleAndArtist": "Lola Young - d\u00A3aler (Karaoke Version)"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "l-9t7ZNZRNM",
+    "TitleAndArtist": "Maku ga Agaru (The Unveiling) \u2013 back number (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "m1VY2_m535g",
+    "TitleAndArtist": "Maroon 5- Lil Wayne - Love Is Like (Karaoke Version)"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "8bRlZEgcpSE",
+    "TitleAndArtist": "Modern Love - David Bowie \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "qTrauo6Xsyg",
+    "TitleAndArtist": "More Than I Can Say - Leo Sayer \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "GH29x-oK3tE",
+    "TitleAndArtist": "sombr - i wish i knew how to quit you (Karaoke Version)"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "1mGIZcHHIBs",
+    "TitleAndArtist": "The Story of My Life - Neil Diamond \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250911",
+    "SongCode": "eAnhrqY0pT0",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u795E\u306E\u307E\u306B\u307E\u306B feat.\u30DF\u30AF\u0026\u30EA\u30F3\u0026GUMI - \u308C\u308B\u308A\u308A \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "NFcUV5UwoQ8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011ultra soul \u29F8 B\u0027z\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "6R1fYw7csC8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3042\u3044\u3046\u3048\u304A\u3093\u304C\u304F \u29F8 GReeeeN\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "OotTqNYxjl8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30AA\u30EC\u30F3\u30B8 \u29F8 SMAP\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "BK0oNe06hGk",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30D7\u30EC\u30A4\u30D0\u30C3\u30AFPart2 \u29F8 \u5C71\u53E3\u767E\u6075\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "shW5P10s7tA",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30DC\u30AF\u30CE\u30FC\u30C8 \u29F8 \u30B9\u30AD\u30DE\u30B9\u30A4\u30C3\u30C1\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "0MN6iKqOdR0",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5143\u6C17\u3092\u51FA\u3057\u3066 \u29F8 \u7AF9\u5185\u307E\u308A\u3084\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "hgd8jBckI2Y",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5225\u306E\u4EBA\u306E\u5F7C\u5973\u306B\u306A\u3063\u305F\u3088 \u29F8 wacci\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "oFtuX-UnvOo",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5343\u306E\u98A8\u306B\u306A\u3063\u3066 \u29F8 \u79CB\u5DDD\u96C5\u53F2\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "0OKNRL5XWvM",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u541B\u306B\u5C4A\u3051 \u29F8 flumpool\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "TcSopByNI10",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5973\u3005\u3057\u304F\u3066 \u29F8 \u30B4\u30FC\u30EB\u30C7\u30F3\u30DC\u30F3\u30D0\u30FC\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "VXmo-0A2DeI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011ultra soul \u29F8 B\u0027z"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "gNJDKyHZm30",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3042\u3044\u3046\u3048\u304A\u3093\u304C\u304F \u29F8 GReeeeN"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "9ARUv4EV4cs",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30AA\u30EC\u30F3\u30B8 \u29F8 SMAP"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "TDtmbTtpmXk",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30D7\u30EC\u30A4\u30D0\u30C3\u30AFPart2 \u29F8 \u5C71\u53E3\u767E\u6075"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "acKXgHsON1o",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30DC\u30AF\u30CE\u30FC\u30C8 \u29F8 \u30B9\u30AD\u30DE\u30B9\u30A4\u30C3\u30C1"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "la7uuHJpyuo",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5143\u6C17\u3092\u51FA\u3057\u3066 \u29F8 \u7AF9\u5185\u307E\u308A\u3084"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "zkFObzuHr_c",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5225\u306E\u4EBA\u306E\u5F7C\u5973\u306B\u306A\u3063\u305F\u3088 \u29F8 wacci"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "Pz2VGtZoNzc",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5343\u306E\u98A8\u306B\u306A\u3063\u3066 \u29F8 \u79CB\u5DDD\u96C5\u53F2"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "CcFBOs1ANTg",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u541B\u306B\u5C4A\u3051 \u29F8 flumpool"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "JTki0nq6FDI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5973\u3005\u3057\u304F\u3066 \u29F8 \u30B4\u30FC\u30EB\u30C7\u30F3\u30DC\u30F3\u30D0\u30FC"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "TdXOJVDfAO8",
+    "TitleAndArtist": "Karaoke Jouw Blik - John West \uFF0A"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "Ji9YqtloOLQ",
+    "TitleAndArtist": "Karaoke\u266C LOVE AFFAIR ~Secret Date~ - Southern All Stars \u3010No Guide Melody\u3011 Lyric Romanized"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "Df38kZPv5BQ",
+    "TitleAndArtist": "Karaoke\u266C unravel - TK from Ling tosite sigure  \u3010No Guide Melody\u3011 Lyric Tokyo Ghoul"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "5Ew7Eig0uYA",
+    "TitleAndArtist": "Kehlani - Folded (Karaoke Version)"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "jWiKj6oXgrk",
+    "TitleAndArtist": "Oliver Richman - Bunnies (Karaoke Version)"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "0AxfMgVqwCo",
+    "TitleAndArtist": "Olivia Dean - Man I Need (Karaoke Version)"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "wgG_glrnd5w",
+    "TitleAndArtist": "Pagsubok - Orient Pearl (Karaoke Version)"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "fKbmmuM_EPs",
+    "TitleAndArtist": "Sora to Kimi no Aida ni \u2013 Nakajima Miyuki (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "odfAlTOWbTs",
+    "TitleAndArtist": "You Gave Me a Mountain (live) - Elvis Presley \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "L8pixfeKvmM",
+    "TitleAndArtist": "Zina - Babylone (\u0628\u0627\u0628\u064A\u0644\u0648\u0646) \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "tvJ1x9Ii_IA",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C unravel - TK from \u51DB\u3068\u3057\u3066\u6642\u96E8 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u6771\u4EAC\u55B0\u7A2E \u30C8\u30FC\u30AD\u30E7\u30FC\u30B0\u30FC\u30EB Ado\u6B4C\u3044\u307E\u3057\u305F"
+  },
+  {
+    "DateString": "250910",
+    "SongCode": "_sE5mEo14us",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u306E\u3060 feat.\u305A\u3093\u3060\u3082\u3093\u30FB\u521D\u97F3\u30DF\u30AF\u30FB\u91CD\u97F3\u30C6\u30C8 - \u5927\u6F20\u6CE2\u65B0 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "96yaKcvcawA",
+    "TitleAndArtist": "Chase Atlantic - FACEDOWN (Karaoke Version)"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "xCNigA1pJWY",
+    "TitleAndArtist": "Hold On Loosely - 38 Special \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "BJ1pubCIio0",
+    "TitleAndArtist": "Karaoke\u266C At God\u0027s Mercy - rerulili feat.Vocaloids \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "ze7vuS8uYoU",
+    "TitleAndArtist": "Love Machine \u2013 Morning Musume (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "Z6LHYxxwpLg",
+    "TitleAndArtist": "Oceans (Where Feet May Fail) - Hillsong United \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "_MDD8FOZ55Y",
+    "TitleAndArtist": "Sawyer Hill - Look At The Time (Karaoke Version)"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "c3Svk80rM8M",
+    "TitleAndArtist": "Take Me Home Tonight - Eddie Money \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "2Etb7WGyf44",
+    "TitleAndArtist": "TOMORROW X TOGETHER - Beautiful Strangers (Karaoke Version)"
+  },
+  {
+    "DateString": "250909",
+    "SongCode": "djy3IUPiqSk",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30DE\u30EB\u30DC\u30ED - tuki. \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "A-d7Hnl3gmw",
+    "TitleAndArtist": "Bella Kay - The Sick (Karaoke Version)"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "hbqdZvWJw1M",
+    "TitleAndArtist": "China Girl - David Bowie \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "HjEnfNL9O0U",
+    "TitleAndArtist": "Don\u0027t Lose Ur Head - Six (musical) (Christina Modestou) \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "iT9pHdlCNAQ",
+    "TitleAndArtist": "Don\u0027t Think Twice- It\u0027s All Right - Bob Dylan \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "G2qeTclW12g",
+    "TitleAndArtist": "Karaoke\u266C No da ft. Hatsune Miku- Kasane Teto- \u0026 Zundamon - Daibaku Hashin\u3010No Guide Melody\u3011 Romanized"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "83aq44U37QA",
+    "TitleAndArtist": "Koyoi No Tsuki No Youni (Like the moon tonight) \u2013 Elephant Kashimashi (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "rdHErSwZt6w",
+    "TitleAndArtist": "mgk - outlaw overture (Karaoke Version)"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "Yv41lXCn1fk",
+    "TitleAndArtist": "Tyler- The Creator - Ring Ring Ring (Karaoke Version)"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "SfBCsxkVovg",
+    "TitleAndArtist": "Where the Wild Roses Grow - Nick Cave \u0026 Kylie Minogue \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250908",
+    "SongCode": "zXmXH6waxbA",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30D8\u30D3\u30FC\u30ED\u30FC\u30C6\u30FC\u30B7\u30E7\u30F3 - AKB48 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "V4x28iUvrns",
+    "TitleAndArtist": "Bitch Better Have My Money - Rihanna \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "f35JMhjj7Wo",
+    "TitleAndArtist": "Daniel Caesar - Have A Baby (With Me) (Karaoke Version)"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "5nonVkCQwqs",
+    "TitleAndArtist": "Five Minutes - Lorrie Morgan \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "zItFDDQiqYk",
+    "TitleAndArtist": "Gunna- Wizkid - forever be mine (Karaoke Version)"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "-UY6-Meo_i8",
+    "TitleAndArtist": "Ikenai Taiyou \u2013 ORANGE RANGE (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "075eSUXo1-k",
+    "TitleAndArtist": "Karaoke\u266C Marlboro - tuki. \u3010No Guide Melody \u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "Ysa3ECEqzLo",
+    "TitleAndArtist": "Let Down - Radiohead \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "hQCcVQtbI_8",
+    "TitleAndArtist": "Mike \u002B The Mechanics - Silent Running (Karaoke Version)"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "841T3Lnd5DA",
+    "TitleAndArtist": "Sing King Soundcheck Episode 5"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "maFlrSJmTDs",
+    "TitleAndArtist": "Usok - Asin \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250907",
+    "SongCode": "xA_6gv13RP8",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30CF\u30C3\u30D4\u30FC\u30B7\u30F3\u30BB\u30B5\u30A4\u30B6 feat. \u5DE1\u97F3\u30EB\u30AB-GUMI - EasyPop \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "Esk6hjrGFQg",
+    "TitleAndArtist": "As the World Caves in - Matt Maltese \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "KUVEPqJdSuc",
+    "TitleAndArtist": "Back in Baby\u0027s Arms - Patsy Cline \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "XLBd7Mw-fPo",
+    "TitleAndArtist": "Ed Sheeran - A Little More (Karaoke Version)"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "tplTYK_IJts",
+    "TitleAndArtist": "Karaoke\u266C Heavy Rotation - AKB48 \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "jVYYvRX66yk",
+    "TitleAndArtist": "Propose \u2013 Naisho no Pierced Earrings (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "wQpP93Cz8k8",
+    "TitleAndArtist": "Rags Cast- MAX - Not So Different At All (Karaoke Version)"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "IM2q2xO5CtI",
+    "TitleAndArtist": "Tensionado - Soapdish (Karaoke Version)"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "5g1BE7pvNy0",
+    "TitleAndArtist": "wifiskeleton - Nope your too late i already died (Karaoke Version)"
+  },
+  {
+    "DateString": "250906",
+    "SongCode": "b-B5_batMs8",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u5922\u53F6\u3046 - MONGOL800 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "lPprtWchARU",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011GET BACK\u29F8\u3086\u305A\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "y82nRxMndrQ",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Hunting Soul\u29F8\u30C8\u30B7\u30ED\u30A6\uFF08CV.\u8C37\u5C71\u7D00\u7AE0\uFF09\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "UYqYoCNIxuE",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30CE\u30F3\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u30BA\u29F8Da-iCE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "M5QTayOLJBI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u306F\u306A\u3073\u3089\u29F8back number\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "QkkfTpR6GcQ",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u8131\u6CD5\u30ED\u30C3\u30AF\u29F8Neru\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "hnqDXR5DnPM",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u90E8\u5C4B\u29F8\u30B7\u30E3\u30A4\u30C8\u30FC\u30D7\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "GFACkn3H9Bw",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u9577\u3044\u9AEA\u29F8FOMARE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "1Grrt-lMWWg",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011GET BACK\u29F8\u3086\u305A"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "FVk4r1pdVIA",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Hunting Soul\u29F8\u30C8\u30B7\u30ED\u30A6\uFF08CV.\u8C37\u5C71\u7D00\u7AE0\uFF09"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "pvnS1AlV4yQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30CE\u30F3\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u30BA\u29F8Da-iCE"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "Mc_eru9Ch-M",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u306F\u306A\u3073\u3089\u29F8back number"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "cix6XEs6Cas",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u8131\u6CD5\u30ED\u30C3\u30AF\u29F8Neru"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "Dtc99HN8jA8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u90E8\u5C4B\u29F8\u30B7\u30E3\u30A4\u30C8\u30FC\u30D7"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "GlSlm7UVA2M",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u9577\u3044\u9AEA\u29F8FOMARE"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "8jMd1lhK0xc",
+    "TitleAndArtist": "Formidable - Stromae \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "U3drAkNJxYw",
+    "TitleAndArtist": "Joost - All Inclusive T\u00FCrkiye (Karaoke Version)"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "_vkEo8HcUIY",
+    "TitleAndArtist": "Karaoke\u266C Happy Synthesizer ft. GUMI \u0026 Megurine Luka - EasyPop \u3010No Guide Melody\u3011Lyric Romanized"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "kBc441dqjKk",
+    "TitleAndArtist": "Louis Tomlinson - She Is Beauty We Are World Class (Karaoke Version)"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "ZDaEpqV3VAc",
+    "TitleAndArtist": "Magbalik - Callalily \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "4CuyjjpjLB4",
+    "TitleAndArtist": "MeloMance - \uC0AC\uB791\uC778\uAC00 \uBD10 Love- Maybe (Karaoke Version)"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "dnOFwPjwNiI",
+    "TitleAndArtist": "Papaoutai - Stromae \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "vPFGNEd7l7k",
+    "TitleAndArtist": "Rockin\u0027 Years - Dolly Parton \u0026 Ricky Van Shelton \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "fmZ-20XCMTE",
+    "TitleAndArtist": "TWICE - Strategy (Karaoke Version)"
+  },
+  {
+    "DateString": "250905",
+    "SongCode": "GuUKJGueSaY",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u304C\u3089\u3059\u306E\u7DDA - Tele \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A \u30BF\u30B3\u30D4\u30FC\u306E\u539F\u7F6A"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "kSHT7VFycLk",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u25CBStrawberry\u25CFCream\u25CBSoda\u25CFPop\u25CB\u29F8Tommy february6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "URN_kuKKBAQ",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u2665Lonely in Gorgeous\u2665\u29F8Tommy february6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "3UaOqtCo61A",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011I \u2665 XMAS\u29F8Tommy heavenly6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "60kgPVpkaSA",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Lollipop Candy \u2665BAD\u2665 girl (short version)\u29F8Tommy heavenly6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "DBesonB1E5o",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Long Kiss Good Bye\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "S36ugJQl6Ac",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Ready\uFF1F\u29F8Tommy heavenly6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "E_nYMUXoCvg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Tip Taps Tip\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "YAr0z-Ryp6I",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30B0\u30C3\u30D0\u30A4\u5BA3\u8A00\u29F8Chinozo\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "_v7MA44WO4E",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u6D6A\u6F2B\u98DB\u884C\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "26XI0fRYQ-k",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u8352\u91CE\u6D41\u8EE2\u29F8Fiction Junction YUUKA\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "uRQbKXDhntg",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u25CBStrawberry\u25CFCream\u25CBSoda\u25CFPop\u25CB\u29F8Tommy february6"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "Lc8u5BfMdrc",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u2665Lonely in Gorgeous\u2665\u29F8Tommy february6"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "nzMa2pe7uQY",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011I \u2665 XMAS\u29F8Tommy heavenly6"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "LVj18XQDfFU",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Lollipop Candy \u2665BAD\u2665 girl (short version)\u29F8Tommy heavenly6"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "1yPP28BIXUQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Long Kiss Good Bye\u29F8HALCALI"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "_17SINZtE_A",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Ready\uFF1F\u29F8Tommy heavenly6"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "xZyZsIxiuC0",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Tip Taps Tip\u29F8HALCALI"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "rPFpt7y_FtU",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30B0\u30C3\u30D0\u30A4\u5BA3\u8A00\u29F8Chinozo"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "0QZzgw2wPBo",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u6D6A\u6F2B\u98DB\u884C\u29F8HALCALI"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "LQQuiXIpjEI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u8352\u91CE\u6D41\u8EE2\u29F8Fiction Junction YUUKA"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "ulXo0rfZuNQ",
+    "TitleAndArtist": "Anata \u2013 Utada Hikaru (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "89j5G3jmzho",
+    "TitleAndArtist": "Blue Moon of Kentucky - Patsy Cline \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "Gs6zoDCVwjQ",
+    "TitleAndArtist": "Conan Gray - Caramel (Karaoke Version)"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "ZtwEIZjwmcY",
+    "TitleAndArtist": "Di Lang Ikaw (Band Version)- JURIS \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "gCEKFSaB5rA",
+    "TitleAndArtist": "I Ran (So Far Away) - A Flock of Seagulls \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "05cZh2rdwP8",
+    "TitleAndArtist": "Jokers - \uC624\uC194\uAE38 Path (Karaoke Version)"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "0pKU36t8_pM",
+    "TitleAndArtist": "Karaoke\u266C Garasu bo sen - Tele \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized Takopi\u0027s Original Sin"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "1JPs9SQzyhk",
+    "TitleAndArtist": "Karaoke\u266C Yume Kanau - MONGOL800 \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "PWYDciUZJUg",
+    "TitleAndArtist": "Ma vie - Alain Barri\u00E8re \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "mvhWEExsFvY",
+    "TitleAndArtist": "Roc\u00EDo D\u00FArcal - La Gata Bajo la Lluvia (Karaoke Version)"
+  },
+  {
+    "DateString": "250904",
+    "SongCode": "hl38j_MmX1M",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30D5\u309A\u30ED\u30DB\u309A\u30FC\u30B9\u3099 ft. \u53EF\u4E0D - \u5185\u7DD2\u306E\u30D4\u30A2\u30B9 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "ojzvmQPY7QY",
+    "TitleAndArtist": "(Simply) The Best - Tina\uFF1A The Tina Turner Musical (Adrienne Warren) \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "jM8_QXrV2Hg",
+    "TitleAndArtist": "Asake- Tiakola - BADMAN GANGSTA (Karaoke Version)"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "jMugzSvF924",
+    "TitleAndArtist": "Blue Amber \u2013 back number (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "q0i619bOdWQ",
+    "TitleAndArtist": "Bob The Builder - Bob The Builder Can We Fix It (Main Title) (Karaoke Version)"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "R5aWjamIf_Q",
+    "TitleAndArtist": "BUKO - Jireh Lim (Karaoke Version) Hd"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "fBqCf8oTYTw",
+    "TitleAndArtist": "Fire and Desire - Rick James \u0026 Teena Marie \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "nH-ZYSoZY0Q",
+    "TitleAndArtist": "I Saw The Light - Hank Williams- Sr. \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "Ng0WACHCpTM",
+    "TitleAndArtist": "Morgan Wallen- Lil Wayne- Rick Ross - Miami (Karaoke Version)"
+  },
+  {
+    "DateString": "250903",
+    "SongCode": "Mv85WUY2nus",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u4E00\u6C17\uFF01 - \u3068\u3093\u306D\u308B\u305A \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "G3d5YnmVwYM",
+    "TitleAndArtist": "Hard to Say I\u0027m Sorry \u29F8 Get Away - Chicago (band) \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "rh5gEr-ddMI",
+    "TitleAndArtist": "Head Over Heels - Tears for Fears \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "5vkFEhoux2A",
+    "TitleAndArtist": "I\u0027m a mess \u2013 MY FIRST STORY (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "IUGPppmp_Zc",
+    "TitleAndArtist": "Karaoke\u266C Propose ft. KAFU - Naisho no Pierced Earrings \u3010No Guide Melody\u3011 Lyric Romanized"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "SlAyexPlwLc",
+    "TitleAndArtist": "Kyle Alessandro - Lighter (Karaoke Version)"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "xU2rQbmK3Vg",
+    "TitleAndArtist": "Laufey - Snow White (Karaoke Version)"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "3DnkWg8Tcw4",
+    "TitleAndArtist": "Naive - The Kooks \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "7j4U95EMN7A",
+    "TitleAndArtist": "Oasis - Some Might Say (Karaoke Version)"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "VgPVEFgTgXU",
+    "TitleAndArtist": "These Eyes - The Guess Who \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250902",
+    "SongCode": "V8J23ighIe8",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u304A\u3069\u308A\u3083\u3093\u305B - \u30E6\u30EA\u30A4\u30FB\u30AB\u30CE\u30F3 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "2D7enxIO9Wo",
+    "TitleAndArtist": "Bulletproof - La Roux \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "L3ShjYDbAe4",
+    "TitleAndArtist": "Charley Pride - Me and Bobby McGee (Karaoke Version)"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "JrmQbksZ_zs",
+    "TitleAndArtist": "Hidamari no Uta \u2013 Le Couple (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "asVkthI7hVY",
+    "TitleAndArtist": "Justin Bieber - BUTTERFLIES (Karaoke Version)"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "0dQzrd_sv9w",
+    "TitleAndArtist": "Karaoke Het regent zonnestralen - Acda en de Munnik \uFF0A"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "e9M4agY1RKo",
+    "TitleAndArtist": "Karaoke\u266C Ikki! - TUNNELS \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "b8r05ULzpWs",
+    "TitleAndArtist": "Luke Combs - Back in the Saddle (Karaoke Version)"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "woa3ybDa-u0",
+    "TitleAndArtist": "Reach - S Club 7 \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "gUOzgvBzEO4",
+    "TitleAndArtist": "Sabrina Carpenter - Tears (Karaoke Version)"
+  },
+  {
+    "DateString": "250901",
+    "SongCode": "Mp4NksEDG5U",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u732B\u5410\u6975\u697D\u97F3\u982D - ano \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "OZ6jISm17ao",
+    "TitleAndArtist": "Hard Times - Paramore \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "ihv8P1n0FhY",
+    "TitleAndArtist": "Justin Bieber - WALKING AWAY (Karaoke Version)"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "YoZlurPZhjE",
+    "TitleAndArtist": "Karaoke\u266C Odoryanse feat.MIKU\u0026GUMI - YurryCanon \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "xkXpjDs6woE",
+    "TitleAndArtist": "Rocky Horror Picture Show - Sweet Transvestite (Karaoke Version)"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "GU05_wAoO6g",
+    "TitleAndArtist": "Sing King soundcheck - Episode 4"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "OBj3jf2dA5o",
+    "TitleAndArtist": "Stand by Me - Oasis \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "sqsbaqa0Xn4",
+    "TitleAndArtist": "The Power of Love - Frankie Goes to Hollywood \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "EiyCfSOcqJI",
+    "TitleAndArtist": "Tophouse - Drive Back Home (Karaoke Version)"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "lYHF599WnXM",
+    "TitleAndArtist": "Watashi no Ichiban Kawaiitokoro \u2013 FRUITS ZIPPER (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250831",
+    "SongCode": "yyA-IgdmjzU",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C HOLY SHINE - Daisy\u00D7Daisy\u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A FAIRY TAIL"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "G8VtIkpq4Zk",
+    "TitleAndArtist": "Barry White - You\u0027re The First- The Last- My Everything (Karaoke Version)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "ejA00Rx1tSE",
+    "TitleAndArtist": "Get Over \u2013 dream (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "GUcaE1xcXIU",
+    "TitleAndArtist": "I\u0027d Rather Go Blind - Beyonc\u00E9 \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "jyxmBFpI4fU",
+    "TitleAndArtist": "Justin Bieber - ALL I CAN TAKE (Karaoke Version)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "VzEQ1MJdSnE",
+    "TitleAndArtist": "Karaoke\u266C Nyang Oeeee Gokuraku Ondo - ano \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "K__A9VbcbXA",
+    "TitleAndArtist": "Lowbat Na Ba\uFF1F - Ganny Brown (Karaoke Version)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "grEJD9QU-c4",
+    "TitleAndArtist": "Reyna Roberts - Raised Right (Karaoke Version)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "pAc00m50DJQ",
+    "TitleAndArtist": "Sana Maulit Muli - Michael Pangilinan \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "MdyzBldK_4Q",
+    "TitleAndArtist": "Sparks - Coldplay \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "C3Ept1y2j60",
+    "TitleAndArtist": "Wonderful Life - Black \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250830",
+    "SongCode": "SoD1rOy2vSU",
+    "TitleAndArtist": "\u30AB\u30E9\u30AA\u30B1\u266C TSUNAMI - \u30B5\u30B6\u30F3\u30AA\u30FC\u30EB\u30B9\u30BF\u30FC\u30BA \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "HlzRi1S8Tdg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011BELIEVE\u29F8LUNA SEA\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "5VqvmDeOma8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011YouTube\u30C6\u30FC\u30DE\u30BD\u30F3\u30B0\u29F8HIKAKIN \u0026 SEIKIN\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "q6YtqiXcCN4",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3044\u307E\u3059\u3050\u8F2A\u5EFB\u29F8\u306A\u304D\u305D feat.\u521D\u97F3\u30DF\u30AF\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "IkmQ8mB4nHw",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30AB\u30FC\u30DE\u30A4\u30F3\u29F8ELLEGARDEN\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "9A1nCcKdiUg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3059\u3044\u307F\u3093\u4E0D\u8DB3\u29F8CHICKS\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "OkGzLR_snAE",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3089\u3057\u3055\u29F8Official\u9AED\u7537dism\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "W49iEENW7oQ",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u590F\u306E\u5F71\u29F8Mrs. GREEN APPLE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "WsO5eFK3yhM",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u590F\u3092\u62B1\u304D\u3057\u3081\u3066\u29F8TUBE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "ghOm74sB9RI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u7E54\u59EB\u3068BABY feat.\u6C50\u308C\u3044\u3089\u29F8\u306D\u3050\u305B\u3002\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "kYxTHg5lDAs",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011BELIEVE\u29F8LUNA SEA"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "kWjjJ_l43CQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011YouTube\u30C6\u30FC\u30DE\u30BD\u30F3\u30B0 \u29F8 HIKAKIN \u0026 SEIKIN"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "FNymTrYQ-IY",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3044\u307E\u3059\u3050\u8F2A\u5EFB \u29F8 \u306A\u304D\u305D feat.\u521D\u97F3\u30DF\u30AF"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "gq4MacERUYQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30AB\u30FC\u30DE\u30A4\u30F3 \u29F8 ELLEGARDEN"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "BMWTehQyutI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3059\u3044\u307F\u3093\u4E0D\u8DB3\u29F8CHICKS"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "1-ou2SQYJzU",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3089\u3057\u3055 \u29F8 Official\u9AED\u7537dism"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "NWt0UkLkMgw",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u590F\u306E\u5F71 \u29F8 Mrs. GREEN APPLE"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "7DOr2PlISdM",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u590F\u3092\u62B1\u304D\u3057\u3081\u3066\u29F8TUBE"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "EtmJ9wbxXwc",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u7E54\u59EB\u3068BABY feat.\u6C50\u308C\u3044\u3089 \u29F8 \u306D\u3050\u305B\u3002"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "MPXvWDSaGlg",
+    "TitleAndArtist": "Ako\u0027y Sayo- Ika\u0027y Akin Lamang - IAXE \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "L6eEQ-JZuFA",
+    "TitleAndArtist": "Big Empty - Stone Temple Pilots \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "zvpYo9q9bVQ",
+    "TitleAndArtist": "Fly Away - Lenny Kravitz \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "8J1A_TiAcuw",
+    "TitleAndArtist": "George Michael - Fastlove- Pt. 1 (Karaoke Version)"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "MdNLVpEW58M",
+    "TitleAndArtist": "Jambalaya (On The Bayou) - The Carpenters \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "gb1KVFCzJJ0",
+    "TitleAndArtist": "Jessica Baio - break up with me (Karaoke Version)"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "RnMB9c1tqYE",
+    "TitleAndArtist": "Karaoke\u266C HOLY SHINE - Daisy\u00D7Daisy \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized FAIRY TAIL"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "BKV2vAe4xUM",
+    "TitleAndArtist": "Olivia wo kikinagara \u2013 Anri (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "yyYEYwgF27w",
+    "TitleAndArtist": "The Beatles - While My Guitar Gently Weeps (Karaoke Version)"
+  },
+  {
+    "DateString": "250829",
+    "SongCode": "4OJP-bVNMWA",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u6C17\u5206\u4E0A\u3005\u2191\u2191 - mihimaru GT \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "TSEJXDITI7I",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011AMAZING LOVE\u29F8Folder5\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "fsz_ebjSLp0",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011BABY BLUE!\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "yS8_tMCA1Zg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011I still love you boy\u29F8Tommy february6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "naJDhcAzyHU",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011L\u30FBO\u30FBV\u30FBE\u30FBL\u30FBY \uFF5E\u5922\u898B\u308BLOVELY BOY\uFF5E\u29F8Tommy february6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "k-9OJK1eZGM",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011ROSIER\u29F8LUNA SEA\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "b3OX_olx4Qg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011spray\u29F8\u9ED2\u5922\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "fyV3Tw40wVg",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011Wait till I can dream\u29F8Tommy heavenly6\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "ADu_z5OIm-A",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30B9\u30C8\u30ED\u30D9\u30EA\u30FC\u30C1\u30C3\u30D7\u30B9\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "DfsQSBuyRDc",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30DE\u30FC\u30C1\u30F3\u30B0\u30DE\u30FC\u30C1\u29F8HALCALI\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "8YgSILTqZz8",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30E9\u30D6\u30C8\u30EC\u29F8CUTIE STREET\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "Lqq_QhNM0Jc",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u6E21\u6708\u6A4B \uFF5E\u541B \u60F3\u3075\uFF5E\u29F8\u5009\u6728\u9EBB\u8863\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "BIEECJpsPBA",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011AMAZING LOVE\u29F8Folder5"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "VFLaWyKigj4",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011BABY BLUE!\u29F8HALCALI"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "FauGaMyaC3A",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011I still love you boy\u29F8Tommy february6"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "1GLeKgvC-GI",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011L\u30FBO\u30FBV\u30FBE\u30FBL\u30FBY \uFF5E\u5922\u898B\u308BLOVELY BOY\uFF5E\u29F8Tommy february6"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "UBPXYGykgt8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011ROSIER\u29F8LUNA SEA"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "5pNBk-PMpmQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011spray\u29F8\u9ED2\u5922"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "-GQe6TyPtgc",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011Wait till I can dream\u29F8Tommy heavenly6"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "vptx46Yqmko",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30B9\u30C8\u30ED\u30D9\u30EA\u30FC\u30C1\u30C3\u30D7\u30B9\u29F8HALCALI"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "jQkgBfxMKSs",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30DE\u30FC\u30C1\u30F3\u30B0\u30DE\u30FC\u30C1\u29F8HALCALI"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "HcxyL5m-tKo",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30E9\u30D6\u30C8\u30EC\u29F8CUTIE STREET"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "nTrDOX3cMcM",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u6E21\u6708\u6A4B \uFF5E\u541B \u60F3\u3075\uFF5E\u29F8\u5009\u6728\u9EBB\u8863"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "Tl2rZmuDUWs",
+    "TitleAndArtist": "1\u29F82 \u2013 Kawamoto Makoto (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "WLDzIkkd1_g",
+    "TitleAndArtist": "It Matters to Me - Faith Hill \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "UTjRt-ooIz0",
+    "TitleAndArtist": "Karaoke\u266C Kibun Jou Jou - mihimaru GT \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "mSCqOrxxd4U",
+    "TitleAndArtist": "Keep on Loving You - Renz Verano ( Karaoke Version )"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "Vo44URc7csw",
+    "TitleAndArtist": "KPop Demon Hunters Cast - Soda Pop (Karaoke Version)"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "wbtFMQjoHGg",
+    "TitleAndArtist": "Learning to Fly - Tom Petty \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "02iyEX-JpLM",
+    "TitleAndArtist": "Lettre \u00E0 France - Michel Polnareff \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "bLizxB-Rn8c",
+    "TitleAndArtist": "Nobody Knows - Kevin Sharp \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "ZgwroxP2qk8",
+    "TitleAndArtist": "Rene\u00E9 Rapp - Shy (Karaoke Version)"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "poGQ5OLI4LE",
+    "TitleAndArtist": "Secondhand Serenade - Fall For You (Karaoke Version)"
+  },
+  {
+    "DateString": "250828",
+    "SongCode": "Pc61UoG_mMw",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u4EBA\u3068\u3057\u3066 - \u6D77\u63F4\u968A \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "3DEtuKzLCK8",
+    "TitleAndArtist": "Adventure of a Lifetime - Coldplay \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "jtzcKruwj_c",
+    "TitleAndArtist": "Aqualung- Lucy Schwartz - Cold (Karaoke Version)"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "HQyRncTXBbQ",
+    "TitleAndArtist": "breakfast \u2013 Mrs. GREEN APPLE (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "H2LehBl-GuM",
+    "TitleAndArtist": "Giv\u0113on - I CAN TELL (Karaoke Version)"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "-MANhIaETLQ",
+    "TitleAndArtist": "Have I Told You Lately - Van Morrison \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "Z1sdhahlERY",
+    "TitleAndArtist": "Karaoke\u266C TSUNAMI - Southern All Stars \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "w8Z5isVXYYY",
+    "TitleAndArtist": "Unwound - George Strait \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250827",
+    "SongCode": "Ug3tMOw4Wa8",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u7D14\u604B\u6B4C - \u6E58\u5357\u4E43\u98A8 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "uXQxDdgB198",
+    "TitleAndArtist": "Hayley Williams - Glum (Karaoke Version)"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "UMlfvZBRH-I",
+    "TitleAndArtist": "Karaoke\u266C Hito to Shite - Kaientai \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "5r5FzmjCht8",
+    "TitleAndArtist": "KPop Demon Hunters Sing-Along Karaoke"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "JiSI22pkNi0",
+    "TitleAndArtist": "LeAnn Rimes - But I Do Love You (Karaoke Version)"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "wfEtu9kOa6U",
+    "TitleAndArtist": "Millionaire - Chris Stapleton \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "Xio-ynW6Lgc",
+    "TitleAndArtist": "Miss Saigon - The Last Night Of The World (Karaoke Version)"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "YI1zQR55fJM",
+    "TitleAndArtist": "On The Way (Kakumei Doucyuu) \u2013 AiNA THE END (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "UePKmwlRdfQ",
+    "TitleAndArtist": "The Climb (Full Pop Mix) - Hannah Montana (Miley Cyrus) \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "EbKVS3JFCN4",
+    "TitleAndArtist": "The Closer I Get to You - Roberta Flack \u0026 Donny Hathaway \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250826",
+    "SongCode": "60IrI0zXoSI",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C survival dAnce \uFF5Eno no cry more\uFF5E - TRF\u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "KhSwrUDOxdo",
+    "TitleAndArtist": "Blondie - The Tide Is High (Karaoke Version)"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "qTrbt4cnBqk",
+    "TitleAndArtist": "Dolly Parton - Here You Come Again (Karaoke Version)"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "eLeFghJg788",
+    "TitleAndArtist": "John Mayer - Love on the Weekend (Karaoke Version)"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "BOOrs1i8Jgs",
+    "TitleAndArtist": "Karaoke\u266C heavenly blue - Kalafina\u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A \u30A2\u30EB\u30C9\u30CE\u30A2\u30FB\u30BC\u30ED"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "swjPgzZlz74",
+    "TitleAndArtist": "Karaoke\u266C Junrenka - Shounan no Kaze\u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "L4yYDZo2cK0",
+    "TitleAndArtist": "Locomotive Breath - Jethro Tull \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "sqeIRorAuHs",
+    "TitleAndArtist": "Sayonara Crawl \u2013 AKB48 (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250825",
+    "SongCode": "oIjtUrKKCLQ",
+    "TitleAndArtist": "That\u0027s What You Get - Paramore \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "kogeAAbn9Yk",
+    "TitleAndArtist": "Every Little Thing - Carlene Carter \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "vgggTAZ-gkg",
+    "TitleAndArtist": "F\uFF0A\uFF0Akin\u0027 Perfect - Pink \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "1ZDM3cWk_UA",
+    "TitleAndArtist": "Forever Love \u2013 X (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "rwZ4q2ua_HM",
+    "TitleAndArtist": "Grease - Greased Lightnin\u0027 (Karaoke Version)"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "6hwVnLLcyi8",
+    "TitleAndArtist": "Karaoke\u266C survival dAnce \uFF5Eno no cry more\uFF5E - TRF \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "jb0xqbvOF2M",
+    "TitleAndArtist": "Karaoke\u266C Tokubechu- Shite - =LOVE \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "N4LNfZzc8ho",
+    "TitleAndArtist": "Les Miserables - On My Own (Karaoke Version)"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "HOY1IsCWZoQ",
+    "TitleAndArtist": "Little by Little - Oasis \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "P6jM5IgHk2Q",
+    "TitleAndArtist": "Nursery Rhyme - If You\u0027re Happy and You Know It (Karaoke Version)"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "3pRH2GdQ8Yc",
+    "TitleAndArtist": "Sing King Sound Check Ep. 3"
+  },
+  {
+    "DateString": "250824",
+    "SongCode": "H-lqlqjreuw",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u304A\u3082\u3061\u3083\u306E\u5175\u968A - Mrs. GREEN APPLE\u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "41jY725Rwqk",
+    "TitleAndArtist": "Absolute Zero (Zettai Reido) \u2013 Natori (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "EAwS-TR8rk4",
+    "TitleAndArtist": "Baddies - Aya Nakamura \u0026 Jo\u00E9 Dw\u00E8t Fil\u00E9 \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "HADns-J6kOs",
+    "TitleAndArtist": "Breakaway - Kelly Clarkson \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "kpRrGM3mKos",
+    "TitleAndArtist": "Daniel Reichard- Ensemble feat. Tituss Burgess - December 1963 (Oh- What a Night) (Karaoke Version)"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "8TXjsxc5zco",
+    "TitleAndArtist": "Ikaw Sana- Nandito Ako - Rob Daniel (Karaoke Version)"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "CIWEoJqI0IQ",
+    "TitleAndArtist": "Karaoke\u266C Happy Lucky Chappy - ano \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "H93el34m5Vg",
+    "TitleAndArtist": "Karaoke\u266C heavenly blue - Kalafina\u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "8pGMdeqF8M4",
+    "TitleAndArtist": "Moulin Rouge - Come What May (Karaoke Version)"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "y4CXGbVj-f0",
+    "TitleAndArtist": "Soda Pop - KPop Demon Hunters \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "996O_MUJw4c",
+    "TitleAndArtist": "The Monkees - Daydream Believer (Karaoke Version)"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "0362cKN3tLA",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30A2\u30F3\u30D1\u30F3\u30DE\u30F3\u306E\u30DE\u30FC\u30C1 - \u30C9\u30EA\u30FC\u30DF\u30F3\u30B0 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "MrHME-XxLAk",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u3068\u304F\u3079\u30C1\u30E5\u3001\u3057\u3066 - \uFF1DLOVE \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250823",
+    "SongCode": "XMWShAwyXE0",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30CF\u30C3\u30D4\u30FC\u30E9\u30C3\u30AD\u30FC\u30C1\u30E3\u30C3\u30D4\u30FC - ano \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u306A\u3057\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A \u30BF\u30B3\u30D4\u30FC\u306E\u539F\u7F6A"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "mbA6C5obDkk",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011F\u30FBL\u30FBY\u29F8\u30B9\u30DA\u30AF\u30C8\u30E9\u30E0\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "d16OWDahP10",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011I Know\u29F8King \u0026 Prince\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "x7y3e9dAoxI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011SERIOUS\u29F8Snow Man\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "BbJEfDBZ2lk",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011TORA TORA TORA\u29F8MAX\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "-fMPaXW4i8E",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3042\u306E\u590F\u304C\u98FD\u548C\u3059\u308B (feat. \u93E1\u97F3\u30EC\u30F3 \u0026 \u93E1\u97F3\u30EA\u30F3)\u29F8\u30AB\u30F3\u30B6\u30AD\u30A4\u30AA\u30EA\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "RuqLaBp5KaY",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3055\u3088\u306A\u3089\u30A4\u30A8\u30B9\u30BF\u30C7\u30A4\u29F8TUBE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "R1JNDL_BGCM",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3074\u3085\u3042\u3044\u3093\u3056\u308F\u30FC\u308B\u3069\u29F8FRUITS ZIPPER\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "K6LVaBLFjFI",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u30D5\u30ED\u30EA\u30B8\u30CA\u30EB\u29F8Mrs. GREEN APPLE\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "o0FkeAmjaRU",
+    "TitleAndArtist": "\u3010\u30AC\u30A4\u30C9\u306A\u3057\u3011\u5E55\u304C\u4E0A\u304C\u308B\u29F8back number\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "reA805P7cVo",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011F\u30FBL\u30FBY\u29F8\u30B9\u30DA\u30AF\u30C8\u30E9\u30E0"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "sjg7HXCjTbo",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011I Know\u29F8King \u0026 Prince"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "fjW1waax2fw",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011SERIOUS\u29F8Snow Man"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "aXsHnrgIADQ",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011TORA TORA TORA\u29F8MAX"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "0cvynGFgh9w",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3042\u306E\u590F\u304C\u98FD\u548C\u3059\u308B (feat. \u93E1\u97F3\u30EC\u30F3 \u0026 \u93E1\u97F3\u30EA\u30F3)\u29F8\u30AB\u30F3\u30B6\u30AD\u30A4\u30AA\u30EA"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "Hr3q_sfRAVY",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3055\u3088\u306A\u3089\u30A4\u30A8\u30B9\u30BF\u30C7\u30A4\u29F8TUBE"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "p4moH0dxrt8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u3074\u3085\u3042\u3044\u3093\u3056\u308F\u30FC\u308B\u3069\u29F8FRUITS ZIPPER"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "2Xeq-1JJtf8",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u30D5\u30ED\u30EA\u30B8\u30CA\u30EB\u29F8Mrs. GREEN APPLE"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "nbGRujDj0OE",
+    "TitleAndArtist": "\u3010\u30AB\u30E9\u30AA\u30B1\u3011\u5E55\u304C\u4E0A\u304C\u308B\u29F8back number"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "I8NS1wrMpK4",
+    "TitleAndArtist": "Blood Orange- Caroline Polachek- Lorde- Mustafa - Mind Loaded (Karaoke Version)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "IAZsMPzaeC4",
+    "TitleAndArtist": "Buko - Jireh Lim \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "4ammMz1Qklw",
+    "TitleAndArtist": "Drunk in Love - Beyonc\u00E9 \u0026 Jay-Z \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "3-fqmMc9Rnw",
+    "TitleAndArtist": "Golden - KPop Demon Hunters \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "2SalK2WnpKE",
+    "TitleAndArtist": "Karaoke\u266C Omochanoheitai - Mrs. GREEN APPLE \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "IIInQat5S5M",
+    "TitleAndArtist": "KPop Demon Hunters Cast - What It Sounds Like (Karaoke Version)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "lRqrqejn4H8",
+    "TitleAndArtist": "Nursery Rhyme - Head- Shoulders- Knees And Toes (Karaoke Version)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "DkRcmk2NhVs",
+    "TitleAndArtist": "Nursery Rhyme - Wheels on the Bus (Karaoke Version)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "Fx2cGv8tiio",
+    "TitleAndArtist": "Oozora to Daichi no Nakade \u2013 Matsuyama Chiharu (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "Rk4fIGb3xZE",
+    "TitleAndArtist": "Your Idol - KPop Demon Hunters \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250822",
+    "SongCode": "JBx4-aCEIvM",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30B5\u30DE\u30FC\u30BF\u30A4\u30E0\u30EC\u30B3\u30FC\u30C8\u3099 (IA) - \u3058\u3093 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "Tv0jtvVwaxY",
+    "TitleAndArtist": "Chappell Roan - The Subway (Karaoke Version)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "bAkwGSJ5wIM",
+    "TitleAndArtist": "d4vd- hannah bahng - L.O.V.E.U (Karaoke Version)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "F0elwkNzrWk",
+    "TitleAndArtist": "Happy Lucky Chappy \u2013 ano (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "h7ptIuSjYyo",
+    "TitleAndArtist": "Karaoke\u266C Anpanman no March - Dreaming \u3010No Guide Melody\u3011 Instrumental- Lyric- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "sFfB2ITqQAQ",
+    "TitleAndArtist": "KPop Demon Hunters Cast - Takedown (Karaoke Version)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "T8UjiIZeE6M",
+    "TitleAndArtist": "Myke Towers - TENGO CELOS (Karaoke Version)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "Jn-qOZAjnjY",
+    "TitleAndArtist": "Nursery Rhyme - Hokey Cokey (Karaoke Version)"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "QMIdY1VWPgs",
+    "TitleAndArtist": "Teach Your Children - Crosby- Stills- Nash and Young \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "W5VS7bc3hTU",
+    "TitleAndArtist": "Under Your Scars - Godsmack \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250821",
+    "SongCode": "fnE-_5uAQm0",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30DE\u30C8\u30EA\u30E7\u30B7\u30AB - \u30CF\u30C1 \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "gYP7rcbpMpA",
+    "TitleAndArtist": "Alipin - Michael Pangilinan \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "bIJp4lkX5Zw",
+    "TitleAndArtist": "BLACKPINK - JUMP (Karaoke Version)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "iHZUZ3ocuQE",
+    "TitleAndArtist": "Dear Theodosia - Hamilton \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "Tml2Efv3lNM",
+    "TitleAndArtist": "Drop It Like It\u0027s Hot - Snoop Dogg \u0026 Pharrell Williams \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "jEr45uLLAgA",
+    "TitleAndArtist": "J-Cole - No Role Modelz (Karaoke Version)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "A8hXsSH5-VU",
+    "TitleAndArtist": "Karaoke\u266C Carrying Happiness - Mrs. GREEN APPLE \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "SMW_FJPmtWQ",
+    "TitleAndArtist": "Karaoke\u266C Summertime Record feat. IA - Jin \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "H8IHKwxvSS8",
+    "TitleAndArtist": "Miss Independent - Ne-Yo \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "YFjb1sfVl2w",
+    "TitleAndArtist": "Nandito Ako - Rob Deniel (Karaoke Version)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "4eF1xbpTRDw",
+    "TitleAndArtist": "Oasis - Acquiesce (Karaoke Version)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "J8CMRzpGc0E",
+    "TitleAndArtist": "PROPOSE \u2013 Natori (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250820",
+    "SongCode": "DHqfKu5D9Qo",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u3042\u306E\u590F\u306B\u54B2\u3051 - \u30E8\u30EB\u30B7\u30AB \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "3a6N6R_vuEU",
+    "TitleAndArtist": "Alex Warren - Eternity (Karaoke Version)"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "JczAghz4GB0",
+    "TitleAndArtist": "chAngE \u2013 miwa (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "DG8ZDlevI5U",
+    "TitleAndArtist": "Guns and Ships - Hamilton \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "DCmNPJ21cLI",
+    "TitleAndArtist": "Here I Go Again (album version) - Whitesnake \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "GqVNHzSOa-Q",
+    "TitleAndArtist": "Ichirin no Hana \u2013 HIGH and MIGHTY COLOR (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "HIB2N5nbnuQ",
+    "TitleAndArtist": "Karaoke\u266C Matryoshka ft. GUMI- Hatsune Miku - HACHI \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "qnkwHOsBjAA",
+    "TitleAndArtist": "Sade - Smooth Operator (Karaoke Version)"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "-GKeiEIxACw",
+    "TitleAndArtist": "Who Will Save Your Soul - Jewel \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "QAFRZP715oc",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C Carrying Happiness - Mrs. GREEN APPLE \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250819",
+    "SongCode": "FpafPiyg1WM",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u30B5\u30DE\u30FC\u30BF\u30A4\u30E0\u30B7\u30F3\u30C7\u30EC\u30E9 - \u7DD1\u9EC4\u8272\u793E\u4F1A \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "PVZJrHQkQgY",
+    "TitleAndArtist": "Elbow - One Day Like This (Karaoke Version)"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "R_4SPvlFfn4",
+    "TitleAndArtist": "Hairspray - You Can\u0027t Stop The Beat (Karaoke Version)"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "PA2lIwS7HpY",
+    "TitleAndArtist": "I\u0027m Just a Kid - Simple Plan \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "R4qdHIjl_jU",
+    "TitleAndArtist": "Justin Bieber - DAISIES (Karaoke Version)"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "RclkulOxtsk",
+    "TitleAndArtist": "Karaoke\u266C Ano Natsu ni Sake - Yorushika \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "Nn0N1jqdiBE",
+    "TitleAndArtist": "One Step Closer - Linkin Park \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "fAD8zw9VcN8",
+    "TitleAndArtist": "Pumped Up Kicks - Foster the People \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "CvuTQ_Baia8",
+    "TitleAndArtist": "TRUE LOVE \u2013 Fujii Fumiya (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250818",
+    "SongCode": "Th3bmeCgIe8",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u5DE6\u53F3\u76F2 - \u30E8\u30EB\u30B7\u30AB \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "VdhrscGMnxc",
+    "TitleAndArtist": "5 Songs. 1 Wheel. No Control. The Sing King Soundcheck"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "J93SoBnJxVs",
+    "TitleAndArtist": "Acacia \u2013 BUMP OF CHICKEN (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "eiZG0sdzBxE",
+    "TitleAndArtist": "Girls Aloud - Sound Of The Underground (Karaoke Version)"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "8MTj3edhZRI",
+    "TitleAndArtist": "Great Balls of Fire \u29F8 Whole Lotta Shakin\u0027 Goin\u0027 on - Cliff Richard \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "ftlTmKvJ3BU",
+    "TitleAndArtist": "Karaoke\u266C Summer Time Cinderella - Ryokuoushoku Shakai\u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "I2ocOyJseJs",
+    "TitleAndArtist": "Lead Me Home - Jamey Johnson \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "Hgipk9ZmMS4",
+    "TitleAndArtist": "Nursery Rhyme - Row Row Row Your Boat (Karaoke Version)"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "IB4PjcO2XpE",
+    "TitleAndArtist": "Running Kind - Merle Haggard \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "zgpcxDirquQ",
+    "TitleAndArtist": "Sino Nga Ba Siya - Sarah Geronimo \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "nlZxuPRzZqI",
+    "TitleAndArtist": "Tyler Childers - Oneida (Karaoke Version)"
+  },
+  {
+    "DateString": "250817",
+    "SongCode": "IXjd8hbWBhc",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u96F2\u3068\u5E7D\u970A - \u30E8\u30EB\u30B7\u30AB \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "DEag-P8E51g",
+    "TitleAndArtist": "23 - Chayce Beckham \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "jNhYToGzf_I",
+    "TitleAndArtist": "Float On - Modest Mouse \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "BC0zaiqQV6o",
+    "TitleAndArtist": "Karaoke\u266C Left-Right Confusion - Yorushika \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "DC8zgjD9uSE",
+    "TitleAndArtist": "Matryoshka \u2013 Hachi (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "iEh0eB-TjWk",
+    "TitleAndArtist": "Norah Jones - Come Away With Me (Karaoke Version)"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "pR6kRrMMuYM",
+    "TitleAndArtist": "Sade - By Your Side (Karaoke Version)"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "X3Y8qJqbr5c",
+    "TitleAndArtist": "The Pointer Sisters - Jump (Original Mix) (Karaoke Version)"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "zkmjcxDnBIU",
+    "TitleAndArtist": "The Wreck of the Edmund Fitzgerald - Gordon Lightfoot \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "LtddOnEqNTo",
+    "TitleAndArtist": "Wind Of Change - Scorpions  (Karaoke Version)"
+  },
+  {
+    "DateString": "250816",
+    "SongCode": "6KlF4I6zgZc",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u8133\u6F3F\u70B8\u88C2\u30AC\u30FC\u30EB - \u308C\u308B\u308A\u308Afeat.\u521D\u97F3\u30DF\u30AF\u0026GUMI \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "jAYO1k4viO8",
+    "TitleAndArtist": "Breaking the Habit - Linkin Park \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "tYerQR1VwtU",
+    "TitleAndArtist": "Carole King - It\u0027s Too Late (Karaoke Version)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "ZXZ7kRBt4Sg",
+    "TitleAndArtist": "Curtain Call \u2013 Yuuri (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "WE3PAhd7mYA",
+    "TitleAndArtist": "Deftones - my mind is a mountain (Karaoke Version)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "UlyrxKDWjC0",
+    "TitleAndArtist": "HUNTR\u29F8X (KPop Demon Hunters Cast) - How It\u2019s Done (Karaoke Version)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "y8lzlumie2s",
+    "TitleAndArtist": "Karaoke\u266C Ghost \u29F8 Kumo to Yuurei - Yorushika \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "fif0ftmLyXE",
+    "TitleAndArtist": "Multo (Live\u29F8Rock Version) - Cup Of Joe \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "KnVxCbtvXAM",
+    "TitleAndArtist": "Numb \u29F8 Encore - Jay-Z \u0026 Linkin Park \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "4zSa20zzomk",
+    "TitleAndArtist": "One More Light - Linkin Park \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "E8TbCc7rJRo",
+    "TitleAndArtist": "Santana- Rob Thomas - Smooth (Karaoke Version)"
+  },
+  {
+    "DateString": "250815",
+    "SongCode": "vJ3PGdeJc0w",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u659C\u967D - \u30E8\u30EB\u30B7\u30AB \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A \u50D5\u306E\u5FC3\u306E\u30E4\u30D0\u30A4\u3084\u3064"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "VzY6rdcsJbI",
+    "TitleAndArtist": "Bleed it Out - Linkin Park \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "kJ1MGAv_j0w",
+    "TitleAndArtist": "Girlfriend - Avril Lavigne \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "Tq4S9zGFo9w",
+    "TitleAndArtist": "Ikaw Sana - Rob Deniel \u29F8 Ogie Alcasid \uFF5C Karaoke Version with Lyrics (Instrumental)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "IBuJD26qdVU",
+    "TitleAndArtist": "Just Once - James Ingram (Karaoke Version)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "vIrj4ZK2D6c",
+    "TitleAndArtist": "Karaoke\u266C Brain Fluid Explosion Girl - rerulili feat.miku\u0026gumi \u3010No Guide Melody\u3011 Lyric Romanized"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "W5Bndw7_djw",
+    "TitleAndArtist": "MIKA - Love Today (Karaoke Version)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "m31lzL17-Cs",
+    "TitleAndArtist": "Nagisa no Sinbad \u2013 Pink Lady (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "DMo40eF4mVA",
+    "TitleAndArtist": "Rene\u00E9 Rapp - Why Is She Still Here\uFF1F (Karaoke Version)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "MenSPqI8QRc",
+    "TitleAndArtist": "These Arms of Mine - Otis Redding \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "33bcgebOwHM",
+    "TitleAndArtist": "Tyla - IS IT (Karaoke Version)"
+  },
+  {
+    "DateString": "250814",
+    "SongCode": "NnPcgnoq4w0",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C \u5E0C\u671B\u306E\u8F4D - \u30B5\u30B6\u30F3\u30AA\u30FC\u30EB\u30B9\u30BF\u30FC\u30BA \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "AsiVD-eZvSY",
+    "TitleAndArtist": "\u3010\u751F\u30B3\u30FC\u30E9\u30B9\u30FB\u30AC\u30A4\u30C9\u306A\u3057\u3011\u3042\u306A\u305F\u304C\u3044\u308B\u3053\u3068\u3067 \u29F8 Uru\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "l-fgVTkbP90",
+    "TitleAndArtist": "\u3010\u751F\u30B3\u30FC\u30E9\u30B9\u30FB\u30AC\u30A4\u30C9\u306A\u3057\u3011\u9752\u3044\u73CA\u745A\u7901 \u29F8 \u677E\u7530\u8056\u5B50\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "y1hGzKI-g88",
+    "TitleAndArtist": "\u3010\u751F\u30B3\u30FC\u30E9\u30B9\u3011\u3042\u306A\u305F\u304C\u3044\u308B\u3053\u3068\u3067 \u29F8 Uru\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "IDrE8ImoCyE",
+    "TitleAndArtist": "\u3010\u751F\u30B3\u30FC\u30E9\u30B9\u3011\u9752\u3044\u73CA\u745A\u7901 \u29F8 \u677E\u7530\u8056\u5B50\u3010\u30AB\u30E9\u30AA\u30B1\u3011"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "NsurBAjj70M",
+    "TitleAndArtist": "Burning Blue - Mariah The Scientist \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "DJWMKGlc7Uc",
+    "TitleAndArtist": "JoJo ~For the Fate of That Blood~ \u2013 Hiroaki \uFF02TOMMY\uFF02 Tominaga (Romaji Karaoke no guide)"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "SjuYnQpBUBE",
+    "TitleAndArtist": "Karaoke\u266C Setting Sun - Yorushika \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "DymQ-Fyx5GQ",
+    "TitleAndArtist": "Lady May - Tyler Childers \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "8TOLLgS90O4",
+    "TitleAndArtist": "Led Zeppelin - Whole Lotta Love - Remaster (Karaoke Version)"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "cTzhdEEKhX8",
+    "TitleAndArtist": "MIKA - Big Girl (You Are Beautiful) (Karaoke Version)"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "6UkfhJCgJE0",
+    "TitleAndArtist": "Rock Your Body - Justin Timberlake \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "uhxZnOwiwEU",
+    "TitleAndArtist": "Yeat- BNYX\u00AE - IM YEAT (Karaoke Version)"
+  },
+  {
+    "DateString": "250813",
+    "SongCode": "blv6SgefizU",
+    "TitleAndArtist": "\u7DF4\u7FD2\u7528\u30AB\u30E9\u30AA\u30B1\u266C SUMMER SONG - YUI\u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
+  },
+  {
     "DateString": "250812",
     "SongCode": "9zSHbLg3_l4",
     "TitleAndArtist": "BLOODY STREAM \u2013 Coda (Romaji Karaoke no guide)"
@@ -11,8 +2431,43 @@
   },
   {
     "DateString": "250812",
+    "SongCode": "K2gD6HERguQ",
+    "TitleAndArtist": "Carrie Underwood - Wasted (Karaoke Version)"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "xFIbGkHChc4",
+    "TitleAndArtist": "Djo - Potion (Karaoke Version)"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "YeZXEu5wqbI",
+    "TitleAndArtist": "Karaoke\u266C Kibou no Wadachi - Southern All Stars \u3010No Guide Melody\u3011 Instrumental- Lyric Romanized"
+  },
+  {
+    "DateString": "250812",
     "SongCode": "-nxQNprTgyU",
     "TitleAndArtist": "Mariposa Traicionera - Man\u00E1 \uFF5C Versi\u00F3n Karaoke \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "-1vvbVZdMzU",
+    "TitleAndArtist": "Real Gone Kid - Deacon Blue \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "a6FeI3rMd-8",
+    "TitleAndArtist": "Toby Keith - Courtesy Of The Red- White And Blue (The Angry American) (Karaoke Version)"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "eoixur_3cfk",
+    "TitleAndArtist": "Trap Queen - Fetty Wap \uFF5C Karaoke Version \uFF5C KaraFun"
+  },
+  {
+    "DateString": "250812",
+    "SongCode": "ehpTLUrgNVg",
+    "TitleAndArtist": "\u30AB\u30E9\u30AA\u30B1\u266C \u96E8\u3068\u30AB\u30D7\u30C1\u30FC\u30CE - \u30E8\u30EB\u30B7\u30AB \u3010\u30AC\u30A4\u30C9\u30E1\u30ED\u30C7\u30A3\u4ED8\u3011 \u30A4\u30F3\u30B9\u30C8- BGM- \u6B4C\u8A5E \u3075\u308A\u304C\u306A"
   },
   {
     "DateString": "250811",
