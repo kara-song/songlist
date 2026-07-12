@@ -8,6 +8,91 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const MAX_DISPLAY_ITEMS = 450; // Max items to render in the table
 
+    // --- 0. Normalization for highlighting -------------------------------
+    // Mirrors normalize() in filterWorker.js (keep the two in sync), but is
+    // applied per character so we can map positions in the normalized string
+    // back to positions in the original title.
+    function normalizeCharForSearch(ch) {
+        return ch
+            .normalize('NFKD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .normalize('NFC')
+            .toLowerCase()
+            .replace(/[\u30a1-\u30f6]/g,
+                c => String.fromCharCode(c.charCodeAt(0) - 0x60));
+    }
+
+    // Note: characters already stored decomposed in the source data (rare for
+    // YouTube titles) may not highlight; the row itself still matches fine.
+    function buildNormalizedMap(original) {
+        let norm = '';
+        const starts = [];
+        const ends = [];
+        let pos = 0;
+        for (const ch of original) { // iterates by code point
+            const out = normalizeCharForSearch(ch);
+            for (let i = 0; i < out.length; i++) {
+                starts.push(pos);
+                ends.push(pos + ch.length);
+            }
+            norm += out;
+            pos += ch.length;
+        }
+        return { norm, starts, ends };
+    }
+
+    // Fills `cell` with `originalText`, wrapping parts that match any of the
+    // normalized `tokens` in <mark>. Built with DOM nodes, never innerHTML.
+    function fillCellWithHighlights(cell, originalText, tokens) {
+        if (!tokens || tokens.length === 0) {
+            cell.textContent = originalText;
+            return;
+        }
+
+        const { norm, starts, ends } = buildNormalizedMap(originalText);
+        const ranges = [];
+        for (const token of tokens) {
+            if (!token) continue;
+            let idx = 0;
+            let guard = 0;
+            while ((idx = norm.indexOf(token, idx)) !== -1 && guard++ < 50) {
+                ranges.push([starts[idx], ends[idx + token.length - 1]]);
+                idx += token.length;
+            }
+        }
+
+        if (ranges.length === 0) { // e.g. romaji-variant or fuzzy match
+            cell.textContent = originalText;
+            return;
+        }
+
+        // Merge overlapping/adjacent ranges.
+        ranges.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+        const merged = [ranges[0].slice()];
+        for (let i = 1; i < ranges.length; i++) {
+            const last = merged[merged.length - 1];
+            if (ranges[i][0] <= last[1]) {
+                last[1] = Math.max(last[1], ranges[i][1]);
+            } else {
+                merged.push(ranges[i].slice());
+            }
+        }
+
+        let cursor = 0;
+        for (const [s, e] of merged) {
+            if (s > cursor) {
+                cell.appendChild(document.createTextNode(originalText.slice(cursor, s)));
+            }
+            const mark = document.createElement('mark');
+            mark.textContent = originalText.slice(s, e);
+            cell.appendChild(mark);
+            cursor = e;
+        }
+        if (cursor < originalText.length) {
+            cell.appendChild(document.createTextNode(originalText.slice(cursor)));
+        }
+    }
+
     // --- 1. Initialize Web Worker and Load Initial Data ---
     function initializeWorkerAndLoadSongs() {
         songCountElement.textContent = "Loading songs...";
@@ -25,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     // Trigger initial display of all songs (or first page of them)
                     songWorker.postMessage({ type: 'filter', term: '' });
                 } else if (event.data.type === 'results') {
-                    renderSongList(event.data.songs); // songs here is the filtered (and already sorted) list
+                    renderSongList(event.data.songs, event.data.tokens, event.data.fuzzy);
                 }
             };
 
@@ -57,22 +142,19 @@ document.addEventListener('DOMContentLoaded', () => {
             // Fallback if Web Workers are not supported
             console.warn("Web Workers not supported. This may impact performance.");
             songCountElement.textContent = "Web Workers not supported. Search might be slow.";
-            // Implement a non-worker fallback if absolutely necessary,
-            // but most modern browsers support Web Workers.
-            // For now, we'll just disable search if no worker.
             searchInput.disabled = true;
         }
     }
 
     // --- 2. Render Song List in the Table (handles MAX_DISPLAY_ITEMS) ---
-    function renderSongList(filteredSongs) {
+    function renderSongList(filteredSongs, tokens, fuzzy) {
         songListBody.innerHTML = ''; // Clear existing rows
 
         const totalMatches = filteredSongs.length;
 
         if (totalMatches === 0) {
             songListBody.innerHTML = `<tr><td colspan="3">No songs found.</td></tr>`;
-            updateSongCount(0, 0);
+            updateSongCount(0, 0, fuzzy);
             return;
         }
 
@@ -87,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
             dateCell.textContent = song.DateString;
 
             const titleCell = document.createElement('td');
-            titleCell.textContent = song.TitleAndArtist;
+            fillCellWithHighlights(titleCell, song.TitleAndArtist, tokens);
 
             const codeCell = document.createElement('td');
             codeCell.textContent = song.SongCode;
@@ -99,13 +181,19 @@ document.addEventListener('DOMContentLoaded', () => {
             fragment.appendChild(row);
         });
         songListBody.appendChild(fragment);
-        updateSongCount(itemsToDisplay.length, totalMatches);
+        updateSongCount(itemsToDisplay.length, totalMatches, fuzzy);
     }
 
     // --- 3. Update Song Count ---
-    function updateSongCount(displayedCount, totalMatchingCount) {
+    function updateSongCount(displayedCount, totalMatchingCount, fuzzy) {
         if (totalMatchingCount === 0) {
-            songCountElement.textContent = "No songs match your search.";
+            songCountElement.textContent = fuzzy
+                ? "No songs found, even allowing for typos."
+                : "No songs match your search.";
+        } else if (fuzzy) {
+            songCountElement.textContent = totalMatchingCount > displayedCount
+                ? `No exact matches — showing ${displayedCount} of ${totalMatchingCount} close matches`
+                : `No exact matches — showing ${totalMatchingCount} close ${totalMatchingCount === 1 ? "match" : "matches"}`;
         } else if (totalMatchingCount > displayedCount) {
             songCountElement.textContent = `Showing ${displayedCount} of ${totalMatchingCount} matching songs`;
         } else {
