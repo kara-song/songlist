@@ -82,3 +82,10 @@ tbody tr:hover {
 .copied-feedback.show {
     opacity: 1;
 }
+/* Highlight for the parts of a title that matched the search */
+mark {
+    background-color: #ffe28a;
+    color: inherit;
+    padding: 0 1px;
+    border-radius: 2px;
+}
