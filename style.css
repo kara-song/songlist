@@ -89,3 +89,100 @@ mark {
     padding: 0 1px;
     border-radius: 2px;
 }
+
+/* Prevent iOS from zooming the page when the search box gets focus
+   (it zooms any input whose font is under 16px) */
+#searchInput {
+    font-size: 16px;
+}
+
+/* Touch screens: don't leave a stuck grey "hover" row after tapping */
+@media (hover: none) {
+    tbody tr:hover {
+        background-color: inherit;
+    }
+}
+
+/* ---------- Phone layout: each song becomes a stacked card ---------- */
+@media (max-width: 700px) {
+    body {
+        padding: 8px;
+    }
+
+    .container {
+        padding: 14px;
+    }
+
+    h1 {
+        font-size: 1.35em;
+    }
+
+    #songCount {
+        text-align: center;
+    }
+
+    /* Collapse the table into block-level cards */
+    table, tbody {
+        display: block;
+        width: 100%;
+    }
+
+    thead {
+        display: none; /* labels are self-evident in card form */
+    }
+
+    tbody tr {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 10px 12px;
+        margin-bottom: 10px;
+        background-color: #fff;
+    }
+
+    tbody td {
+        display: block;
+        border: none;
+        padding: 0;
+    }
+
+    /* Title & artist on top, full width */
+    tbody td:nth-child(2) {
+        order: 1;
+        flex: 1 1 100%;
+        margin-bottom: 8px;
+        line-height: 1.35;
+        overflow-wrap: anywhere; /* long unbroken JP/URL-ish titles can't overflow */
+    }
+
+    /* Date added, small and muted, bottom-left */
+    tbody td:nth-child(1) {
+        order: 2;
+        flex: 1 1 auto;
+        font-size: 0.78em;
+        color: #888;
+    }
+
+    tbody td:nth-child(1)::before {
+        content: "Added ";
+    }
+
+    /* Song code as a tappable chip, bottom-right */
+    tbody td.song-code-cell {
+        order: 3;
+        flex: 0 0 auto;
+        font-size: 0.85em;
+        background-color: #eef2f7;
+        border: 1px solid #d5dde8;
+        border-radius: 4px;
+        padding: 3px 9px;
+    }
+
+    tbody td.song-code-cell::before {
+        content: "Code ";
+        color: #7a8aa0;
+        font-family: sans-serif;
+    }
+}
