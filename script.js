@@ -175,9 +175,23 @@ document.addEventListener('DOMContentLoaded', () => {
             codeCell.textContent = song.SongCode;
             codeCell.classList.add('song-code-cell');
 
+            // Play link — hidden on desktop (double-click covers it there),
+            // shown as a button-style chip on phones via the CSS media query.
+            const playCell = document.createElement('td');
+            playCell.classList.add('play-cell');
+            if (song.SongCode && song.SongCode !== 'N/A') {
+                const playLink = document.createElement('a');
+                playLink.href = `https://youtu.be/${song.SongCode}`;
+                playLink.target = '_blank';
+                playLink.rel = 'noopener';
+                playLink.textContent = '\u25B6 Play';
+                playCell.appendChild(playLink);
+            }
+
             row.appendChild(dateCell);
             row.appendChild(titleCell);
             row.appendChild(codeCell);
+            row.appendChild(playCell);
             fragment.appendChild(row);
         });
         songListBody.appendChild(fragment);

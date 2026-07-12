@@ -186,3 +186,28 @@ mark {
         font-family: sans-serif;
     }
 }
+
+/* Play link: desktop has double-click, so only phones show it */
+td.play-cell {
+    display: none;
+}
+
+@media (max-width: 700px) {
+    tbody td.play-cell {
+        display: block;
+        order: 4;
+        flex: 0 0 auto;
+        margin-left: 8px;
+    }
+
+    tbody td.play-cell a {
+        display: inline-block;
+        font-size: 0.85em;
+        font-weight: bold;
+        text-decoration: none;
+        color: #fff;
+        background-color: #4CAF50; /* matches the "Copied!" toast green */
+        border-radius: 4px;
+        padding: 4px 11px;
+    }
+}
