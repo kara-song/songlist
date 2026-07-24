@@ -171,6 +171,18 @@ document.addEventListener('DOMContentLoaded', () => {
             const titleCell = document.createElement('td');
             fillCellWithHighlights(titleCell, song.TitleAndArtist, tokens);
 
+            // Warn when the video shows Japanese-only on-screen lyrics
+            // (カラオケ歌っちゃ王). Flagged in the JSON by the desktop tool.
+            if (song.JapaneseOnly) {
+                const badge = document.createElement('span');
+                badge.className = 'jp-only-badge';
+                badge.textContent = '⚠ JP LYRICS ONLY';
+                badge.title = 'This video shows Japanese lyrics only — no romaji or ' +
+                    'English on screen, so non-Japanese readers may not be able to sing along.';
+                titleCell.appendChild(document.createTextNode(' '));
+                titleCell.appendChild(badge);
+            }
+
             const codeCell = document.createElement('td');
             codeCell.textContent = song.SongCode;
             codeCell.classList.add('song-code-cell');

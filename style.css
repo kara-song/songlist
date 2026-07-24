@@ -90,6 +90,28 @@ mark {
     border-radius: 2px;
 }
 
+/* Warns that a video shows Japanese-only on-screen lyrics (カラオケ歌っちゃ王),
+   so non-Japanese readers can't follow along. Loud red pill so it can't be
+   missed; hover shows the full note. */
+.jp-only-badge {
+    display: inline-block;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-size: 0.8em;
+    font-weight: 800;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #e53935;
+    border: 1px solid #b71c1c;
+    border-radius: 4px;
+    padding: 2px 9px;
+    margin-left: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+    cursor: help;
+}
+
 /* Prevent iOS from zooming the page when the search box gets focus
    (it zooms any input whose font is under 16px) */
 #searchInput {

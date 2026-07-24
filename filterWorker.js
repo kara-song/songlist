@@ -246,6 +246,9 @@ function loadSongs(songs) {
             DateString: String(song.DateString || 'N/A'),
             SongCode: songCode,
             TitleAndArtist: titleAndArtist,
+            // Set by the desktop tool for カラオケ歌っちゃ王 videos (Japanese-only
+            // on-screen lyrics). Omitted from the JSON when false, so coerce.
+            JapaneseOnly: song.JapaneseOnly === true,
             _fields: fields,
             _haystack: fields.join('\n') + '\n' + normCode,
             _searchCode: normCode,
@@ -399,6 +402,7 @@ function publicSongs(list) {
     return list.map(s => ({
         DateString: s.DateString,
         SongCode: s.SongCode,
-        TitleAndArtist: s.TitleAndArtist
+        TitleAndArtist: s.TitleAndArtist,
+        JapaneseOnly: s.JapaneseOnly
     }));
 }
