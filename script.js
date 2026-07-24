@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (song.JapaneseOnly) {
                 const badge = document.createElement('span');
                 badge.className = 'jp-only-badge';
-                badge.textContent = '⚠ JP LYRICS ONLY';
+                badge.textContent = '⚠ JP lyrics only';
                 badge.title = 'This video shows Japanese lyrics only — no romaji or ' +
                     'English on screen, so non-Japanese readers may not be able to sing along.';
                 titleCell.appendChild(document.createTextNode(' '));
