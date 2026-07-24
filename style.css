@@ -91,8 +91,7 @@ mark {
 }
 
 /* Warns that a video shows Japanese-only on-screen lyrics (カラオケ歌っちゃ王),
-   so non-Japanese readers can't follow along. Red pill so it stands out;
-   hover shows the full note. */
+   so non-Japanese readers can't follow along. Hover shows the full note. */
 .jp-only-badge {
     display: inline-block;
     vertical-align: middle;
@@ -100,9 +99,9 @@ mark {
     font-size: 0.72em;
     font-weight: bold;
     line-height: 1.4;
-    color: #fff;
-    background-color: #e53935;
-    border: 1px solid #c62828;
+    color: #8a4b00;
+    background-color: #ffe9c7;
+    border: 1px solid #f0b429;
     border-radius: 10px;
     padding: 1px 8px;
     margin-left: 2px;
